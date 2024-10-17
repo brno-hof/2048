@@ -2,5 +2,5 @@
 
 # How to run
 ```bash
-./build && ./2048
+./build.sh && ./2048
 ```
