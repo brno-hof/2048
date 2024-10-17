@@ -1,7 +1,7 @@
 2048 implemented using Raylib+C
 
-# How to run
-First make sure you have gcc and the raylib library installed. Then run 
+# How to play
+First make sure you have gcc and raylib installed on your device. Then run 
 ```bash
 ./build.sh && ./2048
 ```
