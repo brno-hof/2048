@@ -111,7 +111,7 @@ int main(void) {
 }
 
 bool isValidPosition(int x, int y) {
-  return x >= 0 && x <= 4 && y >= 0 && y <= 4;
+  return x >= 0 && x < 4 && y >= 0 && y < 4;
 }
 
 bool isGridFull(const Grid grid) {
